@@ -61,7 +61,6 @@
 # COMMAND ----------
 
 print("Run default language")
-print("Run default language")
 
 # COMMAND ----------
 

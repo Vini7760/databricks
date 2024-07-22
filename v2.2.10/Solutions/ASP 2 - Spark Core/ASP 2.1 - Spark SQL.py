@@ -59,6 +59,11 @@
 # COMMAND ----------
 
 # MAGIC %sql
+# MAGIC create table name,price
+
+# COMMAND ----------
+
+# MAGIC %sql
 # MAGIC SELECT name, price
 # MAGIC FROM products
 # MAGIC WHERE price < 200
